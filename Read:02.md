@@ -8,12 +8,12 @@
 - Spaces and even breaks are always recognized for a single space by the browsers, so in order to over come that if required a br/ tag or a hr/ tag is used at the point a new line is required.
 - The stong tag does the same editing funtions as the bold.
 
-### Here an example of heading tags..
+### Here is an example of heading tags..
 
 ![heading](https://wuschools.com/wp-content/uploads/2020/01/heading-tag.jpg "code")
 
 
-### Here an example of "p" tag..
+### Here is an example of "p" tag..
 
 
 ![p](https://qph.fs.quoracdn.net/main-qimg-cddaacbdcd05d1b7c3b01f311de76490.webp "code")
