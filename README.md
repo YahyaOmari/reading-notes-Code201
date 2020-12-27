@@ -7,5 +7,5 @@ My name is Yahya, I am 22 years old and I am a fresh graduate from universiry of
 
 [12/25/2020 Prep Work](Read01.md)
 
-[12/27/2020 Class1](Read02.md)
+[12/27/2020 Class1](Read:02.md)
 #### reading-notes-Code201
