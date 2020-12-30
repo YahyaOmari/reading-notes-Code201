@@ -1,4 +1,4 @@
-# Chapter 4 -HTML-
+# Chapter 5 -HTML-
 ## Images
 
 Images can improve the design and the appearance of a web page.
@@ -14,6 +14,8 @@ The 'img" tag is empty, it contains attributes only, and does not have a closing
 The "img" tag has two required attributes:
 - src - Specifies the path to the image.
 - alt - Specifies an alternate text for the image.
+
+# Chapter 11 -CSS-
 
 ### The src Attribute
 
