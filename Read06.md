@@ -45,7 +45,8 @@ Spaces and line breaks are not important. An object definition can span multiple
 
 The name:values pairs in JavaScript objects are called properties:
 
-![Object ](IMG/Object.png "Properties")
+![Object ](IMG/Object.PNG "Properties")
+
 # Chapter 5 -JS-
 ## Document Object Model
 
@@ -54,7 +55,8 @@ The name:values pairs in JavaScript objects are called properties:
 When a web page is loaded, the browser creates a **D**ocument **O**bject **M**odel of the page.
 
 The **HTML DOM** model is constructed as a tree of Objects:
-![DOM ](IMG/DOM.png "Document Object Model")
+
+![DOM ](IMG/DOM.PNG "Document Object Model")
 
 ### With the object model, JavaScript gets all the power it needs to create dynamic HTML:
 
