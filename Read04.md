@@ -50,7 +50,7 @@ There are tons of different layout designs to choose from. However, the structur
 
 - The code to be executed, by the function, is placed inside curly brackets: {}
 
-![JS ](Functions.PNG "Functions")
+![JS ](IMG/Functions.PNG "Functions")
 
 - Function parameters are listed inside the parentheses () in the function definition.
 
