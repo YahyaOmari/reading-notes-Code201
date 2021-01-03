@@ -1,4 +1,4 @@
-# Chapter 3 -JS-
+# Chapter 6 -HTML-
 ## Tables
 
 HTML tables allow web developers to arrange data into rows and columns.
@@ -25,6 +25,7 @@ In the example above, this is the person object that "owns" the fullName functio
 
 In other words, this.firstName means the firstName property of this object.
 
+## Chapter 3 -JS-
 ### Accessing Object Methods
 
 You access an object method with the following syntax:
