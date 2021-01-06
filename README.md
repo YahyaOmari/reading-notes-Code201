@@ -23,7 +23,7 @@ My name is Yahya, I am 22 years old and I am a fresh graduate from universiry of
 
 [1/5/2021 Class 9](Read09.md)
 
-[1/6/2021 Class 10](Read010.md)
+[1/6/2021 Class 10](Read10.md)
 
 
 #### reading-notes-Code201
